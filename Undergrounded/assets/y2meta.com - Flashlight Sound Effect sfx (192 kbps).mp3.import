@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/y2meta.com - Flashlight Sound Effect sfx (192 kbps).mp3-c9e8842b1f8467c37b64b0c37d06c117.mp3str"
+
+[deps]
+
+source_file="res://assets/y2meta.com - Flashlight Sound Effect sfx (192 kbps).mp3"
+dest_files=[ "res://.import/y2meta.com - Flashlight Sound Effect sfx (192 kbps).mp3-c9e8842b1f8467c37b64b0c37d06c117.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

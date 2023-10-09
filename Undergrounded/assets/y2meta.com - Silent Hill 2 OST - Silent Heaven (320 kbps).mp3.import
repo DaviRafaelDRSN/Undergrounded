@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/y2meta.com - Silent Hill 2 OST - Silent Heaven (320 kbps).mp3-93e99ed86a80adb8db4d130ab63bb510.mp3str"
+
+[deps]
+
+source_file="res://assets/y2meta.com - Silent Hill 2 OST - Silent Heaven (320 kbps).mp3"
+dest_files=[ "res://.import/y2meta.com - Silent Hill 2 OST - Silent Heaven (320 kbps).mp3-93e99ed86a80adb8db4d130ab63bb510.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
